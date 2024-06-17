@@ -1,0 +1,4 @@
+#Mon Jun 17 21:39:12 CST 2024
+base.0=F\:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

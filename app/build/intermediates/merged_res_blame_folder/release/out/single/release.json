@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_note.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\background_note.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_delete.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\background_delete.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_done.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\ic_done.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\mipmap-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_miscellaneous.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\layout\\layout_miscellaneous.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_web_link.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\ic_web_link.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_image.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\ic_image.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_subtitle_indicator.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\background_subtitle_indicator.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\font_ubuntu_medium.ttf.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\font\\ubuntu_medium.ttf"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\layout_item_container_note.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\layout\\item_container_note.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_add_button.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\background_add_button.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_note_color_2.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\background_note_color_2.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_note_color_3.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\background_note_color_3.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_back.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\mipmap-ldpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_dialog.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\background_dialog.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_delete.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_add_outline.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\ic_add_outline.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_note_color_5.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\background_note_color_5.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_delete_note.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\layout\\layout_delete_note.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_search.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_vol.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\ic_vol.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_mic.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\ic_mic.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_create_note.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\layout\\activity_create_note.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\font_ubuntu_regular.ttf.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\font\\ubuntu_regular.ttf"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_search.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\background_search.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_done_button.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\background_done_button.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_add.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_note_color_1.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\background_note_color_1.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_note_color_4.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\background_note_color_4.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\font_ubuntu_bold.ttf.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\font\\ubuntu_bold.ttf"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_add_url.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\layout\\layout_add_url.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\drawable_background_miscellaneous.xml.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\drawable\\background_miscellaneous.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\AndroidStudioProjects\\MonkeyZeroNotes\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]
